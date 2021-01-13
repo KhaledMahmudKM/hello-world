@@ -4,4 +4,4 @@ This is a test repo.
  - New edit in readmi-edits
 
 
-Wiki here.
+Wiki here. https://github.com/KhaledMahmudKM/hello-world/wiki#welcome-to-the-hello-world-wiki
